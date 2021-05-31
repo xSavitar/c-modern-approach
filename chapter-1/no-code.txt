@@ -1,1 +1,5 @@
+Programs coded in this repo are from the books called:
+
+"C Programming: A Modern Approach 2 Edition" -- check it out.
+
 Chapter 1 has no code. It's empty code wise :)
